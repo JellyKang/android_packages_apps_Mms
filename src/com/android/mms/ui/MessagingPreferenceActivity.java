@@ -80,7 +80,6 @@ public class MessagingPreferenceActivity extends PreferenceActivity
     // Emoji
     public static final String ENABLE_EMOJIS             = "pref_key_enable_emojis";
     public static final String ENABLE_QUICK_EMOJIS       = "pref_key_enable_quick_emojis";
-    public static final String STRIP_UNICODE             = "pref_key_strip_unicode";
 
     // Unicode
     public static final String UNICODE_STRIPPING            = "pref_key_unicode_stripping";
