@@ -784,6 +784,8 @@
     <string name="pref_title_enable_quick_emojis">Quick emoji button</string>
     <string name="pref_summary_enable_quick_emojis">Display a button next to the text-input area for quick emoji access</string>
 
+    <string name="pref_title_strip_unicode">Strip unicode</string>
+    <string name="pref_summary_strip_unicode">Unicode stripping</string>
 
     <!-- Message signature -->
     <string name="msg_sig_title">Signature</string>
